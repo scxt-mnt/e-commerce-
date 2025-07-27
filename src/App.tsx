@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <main>
+    <main className="h-screen overflow-hidden relative">
           <NavBar/>
     </main>
     </> 
