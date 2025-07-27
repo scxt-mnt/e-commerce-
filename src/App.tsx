@@ -1,10 +1,12 @@
+import NavBar from "./components/NavBar"
+
 function App() {
 
   return (
     <>
-      <nav className='bg-black w-screen h-[100px]'></nav>
-    </>
-  )
+    <NavBar/>
+    </> 
+)
 }
 
 export default App
